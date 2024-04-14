@@ -276,6 +276,7 @@
 
 @media only screen and (max-width: 480px) {
   .container {
+    padding: 10px 5px;
       max-width: 90%;
       font-size: 12px;
   }
